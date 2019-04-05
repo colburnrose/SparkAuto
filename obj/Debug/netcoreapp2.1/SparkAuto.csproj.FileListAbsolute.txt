@@ -17,7 +17,6 @@ C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto.RazorCoreGenerate.cache
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\About.g.cshtml.cs
-C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.g.cshtml.cs
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.g.cshtml.cs
@@ -33,3 +32,5 @@ C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto.dll
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto.pdb
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto.csproj.CopyComplete
+C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\ServiceTypes\Index.g.cshtml.cs
+C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\ServiceTypes\Create.g.cshtml.cs
