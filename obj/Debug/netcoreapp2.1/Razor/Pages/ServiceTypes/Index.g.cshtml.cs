@@ -66,7 +66,7 @@ using SparkAuto.Data;
             WriteLiteral("\r\n<br />\r\n\r\n<div class=\"backgroundWhite\">\r\n    <div class=\"row\">\r\n        <div class=\"col-md-6\">\r\n            <h2 class=\"text-info\">Service Type List</h2>\r\n        </div>\r\n        <div class=\"col-lg-6 text-right\">\r\n            ");
             EndContext();
             BeginContext(323, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "42a9049fb89a4e2b857b5ce05cd1caef", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a5d0e0d7c2e44848941768e88b783055", async() => {
                 BeginContext(368, 45, true);
                 WriteLiteral("<i class=\"fas fa-plus\"></i> &nbsp; Create New");
                 EndContext();

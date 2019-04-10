@@ -18,11 +18,25 @@ namespace SparkAuto.Pages.ServiceTypes
             _db = db;
         }
 
+        [BindProperty]
         public ServiceType ServiceType { get; set; }
 
-        public void OnGet()
+        public IActionResult OnGet()
         {
+            return Page();
+        }
 
+        public async Task<IActionResult> OnPostAsync()
+        {
+            if (!ModelState.IsValid)
+            {
+                return Page();
+            }
+
+            _db.ServiceTypes.Add(ServiceType);
+            await _db.SaveChangesAsync();
+
+            return RedirectToPage("Index");
         }
     }
 }

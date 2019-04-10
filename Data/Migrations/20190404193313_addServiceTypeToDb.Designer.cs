@@ -13,7 +13,7 @@ namespace SparkAuto.Data.Migrations
     [Migration("20190404193313_addServiceTypeToDb")]
     partial class addServiceTypeToDb
     {
-        protected override void BuildTargetModel(ModelBuilder modelBuilder)
+        protected void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -186,21 +186,21 @@ namespace SparkAuto.Data.Migrations
                     b.ToTable("AspNetUserTokens");
                 });
 
-            modelBuilder.Entity("SparkAuto.Models.ServiceType", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
+            //modelBuilder.Entity("SparkAuto.Models.ServiceType", b =>
+            //    {
+            //        b.Property<int>("Id")
+            //            .ValueGeneratedOnAdd()
+            //            .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-                    b.Property<string>("ServiceName")
-                        .IsRequired();
+            //        b.Property<string>("ServiceName")
+            //            .IsRequired();
 
-                    b.Property<double>("ServicePrice");
+            //        b.Property<double>("ServicePrice");
 
-                    b.HasKey("Id");
+            //        b.HasKey("Id");
 
-                    b.ToTable("ServiceTypes");
-                });
+            //        b.ToTable("ServiceType");
+            //    });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {

@@ -11,9 +11,12 @@ namespace SparkAuto.Models
         public int Id { get; set; }
 
         [Required]
+        [Display(Name="Service Name")]
         public string ServiceName { get; set; }
 
         [Required]
+        [Display(Name="Service Price")]
+        [DataType(DataType.Currency)]
         public double ServicePrice { get; set; }
     }
 }
