@@ -34,3 +34,5 @@ C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto.csproj.CopyComplete
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\ServiceTypes\Index.g.cshtml.cs
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\ServiceTypes\Create.g.cshtml.cs
+C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CreateAndBackToListButton.g.cshtml.cs
+C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\ServiceTypes\Edit.g.cshtml.cs
