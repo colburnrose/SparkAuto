@@ -1,6 +1,7 @@
-﻿<div class="row">
+﻿@model ServiceTypes.DetailsModel
+<div class="row">
     <div class="col-sm-2">
-        <input type="submit" class="btn btn-info form-control" value="Edit" />
+        <input asp-page="Edit" asp-route-id="@Model.ServiceType.Id" type="submit" class="btn btn-info form-control" value="Edit" />
     </div>
     <div class="col-sm-2">
         <a asp-page="Index" class="btn btn-success form-control">Back to List</a>

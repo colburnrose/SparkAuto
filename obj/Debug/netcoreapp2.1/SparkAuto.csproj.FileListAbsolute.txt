@@ -39,3 +39,5 @@ C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto.csproj.CopyComplete
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\SparkAuto.csprojAssemblyReference.cache
 C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_DetailsAndBackToListButton.g.cshtml.cs
+C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\ServiceTypes\Delete.g.cshtml.cs
+C:\Users\csanders\Projects\SparkAuto\SparkAuto\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_DeleteBackToList.g.cshtml.cs
