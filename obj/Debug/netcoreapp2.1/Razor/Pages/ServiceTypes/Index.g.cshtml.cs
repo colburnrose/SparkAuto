@@ -71,7 +71,7 @@ using SparkAuto.Data;
             WriteLiteral("\r\n<br />\r\n\r\n<div class=\"backgroundWhite\">\r\n    <div class=\"row\">\r\n        <div class=\"col-md-6\">\r\n            <h2 class=\"text-info\">Service Type List</h2>\r\n        </div>\r\n        <div class=\"col-lg-6 text-right\">\r\n            ");
             EndContext();
             BeginContext(323, 94, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9e4dcbd87db44a79b0b5e2ffb9e5a4f7", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a0ecbe231301466e8b7f1c6f3efa5b55", async() => {
                 BeginContext(368, 45, true);
                 WriteLiteral("<i class=\"fas fa-plus\"></i> &nbsp; Create New");
                 EndContext();
@@ -162,7 +162,7 @@ using SparkAuto.Data;
             WriteLiteral("\r\n                            </td>\r\n                            <td>                               \r\n                                <div class=\"btn-group\" role=\"group\">\r\n                                    ");
             EndContext();
             BeginContext(1631, 103, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "df5dc830cb0f46cbbbecdcf7b9a1c6a4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c5b527cdeaad4238995e42bd18b5883d", async() => {
                 BeginContext(1698, 32, true);
                 WriteLiteral("<i class=\"fas fa-edit\"></i> Edit");
                 EndContext();
@@ -198,7 +198,7 @@ using SparkAuto.Data;
             WriteLiteral("\r\n                                    ");
             EndContext();
             BeginContext(1772, 111, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "88e076281e264354b1725eda0619e1a4", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c2151ee512e34ae7805b3ddb3fae1760", async() => {
                 BeginContext(1840, 39, true);
                 WriteLiteral("<i class=\"fas fa-trash-alt\"></i> Delete");
                 EndContext();
@@ -234,7 +234,7 @@ using SparkAuto.Data;
             WriteLiteral("\r\n                                    ");
             EndContext();
             BeginContext(1921, 113, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3bbd98ffa29c4db2a2c5b421eea2bd75", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "36501d1746114daea87a379e8a9d7a1a", async() => {
                 BeginContext(1991, 39, true);
                 WriteLiteral("<i class=\"fas fa-list-alt\"></i> Details");
                 EndContext();

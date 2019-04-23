@@ -60,7 +60,7 @@ using SparkAuto.Data;
             WriteLiteral("<div class=\"row\">\r\n    <div class=\"col-sm-2\">\r\n        <input type=\"submit\" class=\"btn btn-info form-control\" value=\"Update\" />\r\n    </div>\r\n    <div class=\"col-sm-2\">\r\n        ");
             EndContext();
             BeginContext(177, 73, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "85bd1bbfbaf4499c8dec6b7da5b38b65", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e78f062d5def49ec9829ca753af37244", async() => {
                 BeginContext(234, 12, true);
                 WriteLiteral("Back to List");
                 EndContext();
